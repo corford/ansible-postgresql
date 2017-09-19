@@ -1,5 +1,4 @@
 ---
-
 postgresql_ext_postgis_deps:
   - libgeos-c1v5
   - "postgresql-{{postgresql_version}}-postgis-{{postgresql_ext_postgis_version}}"
